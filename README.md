@@ -1,4 +1,4 @@
 # Quiz-App
 A simple quiz App created using JavaScript
 
-This is a Simple projectr created with HTML, CSS and Javascript.
+This is a Quiz App Project created with HTML, CSS and Javascript.
